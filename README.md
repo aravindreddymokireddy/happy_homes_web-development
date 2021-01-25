@@ -1,4 +1,4 @@
-# happy_homes_web-development
+# Happy_Homes_Web_Development
 
 # I have developed this website during my Full Stack web development internship with Verzeo.
 
